@@ -1,0 +1,2 @@
+# skills
+Global AI skills.
